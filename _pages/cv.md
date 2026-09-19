@@ -9,56 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
+Contact
+======
+* Email: jliugi@connect.ust.hk
+* Google Scholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
+* GitHub: https://github.com/Vicent0205
+* X (Twitter): @junteng88716710
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (HKUST), HKUST NLP Group, 2024 &ndash; Present.
+  * Supervisor: Professor Junxian He.
+* **B.Eng.**, Shanghai Jiao Tong University (SJTU), 2020 &ndash; 2024.
+    * Professor Junxian He advised me during my undergraduate studies.
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Intern**, MINIMAX, February 2025 &ndash; Present.
+* **Research Intern**, Tencent WXG, June 2024 &ndash; September 2024.
+  * Supervisor: Zifei Shan.
+* **Research Intern**, Shanghai AI Lab, June 2023 &ndash; December 2023.
+  * Supervisor: Prof. Yu Cheng.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research interests
+======
+* LLM reasoning and reinforcement learning
+* Hallucination in vision-language models (VLMs)
+* LLM truthfulness and interpretability
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Research skills:** natural language processing and machine learning; large language model reasoning and reinforcement learning; LLM truthfulness and interpretability; vision-language model hallucination analysis; synthesis and use of verifiable reasoning data at scale.
+* **Engineering:** development and open sourcing of research code for my projects, including SynLogic, Vision4Chart (chart understanding with VLMs) and Universal_Truthfulness_Hyperplane.
+
+Honors and awards
+======
+* **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
