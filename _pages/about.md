@@ -18,7 +18,7 @@ I am Junteng Liu, a first-year PhD candidate in Computer Science at the Hong Kon
 ## Academic background
 
 * **Ph.D. in Computer Science**, 2024 &ndash; Present &mdash; Hong Kong University of Science and Technology (HKUST), HKUST NLP Group. Supervisor: Professor Junxian He.
-* **B.Eng.**, 2020 &ndash; 2024 &mdash; Shanghai Jiao Tong University (SJTU), now June 2024. Advisor: Professor Junxian He.
+* **B.Eng.**, 2020 &ndash; 2024 &mdash; Shanghai Jiao Tong University (SJTU), graduating in June 2024.
 
 ## Research experience
 
@@ -49,11 +49,13 @@ I am Junteng Liu, a first-year PhD candidate in Computer Science at the Hong Kon
 * **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**. NeurIPS 2023. Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
 * **Composing Parameter-Efficient Modules with Arithmetic Operations**. NeurIPS 2023. Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.
 
+All of my articles are also listed on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+
 ## Skills
 
 * **Research skills:** natural language processing and machine learning; large language model reasoning and reinforcement learning; LLM truthfulness and interpretability; vision-language model hallucination analysis; synthesis and use of verifiable reasoning data at scale.
-* **Engineering:** development and open sourcing of research code for my projects, including SynLogic, Vision4Chart (chart understanding with VLMs) and Universal_Truthfulness_Hyperplane.
-* **Academic software and profiles:** Google Scholar profile, GitHub (Vicent0205).
+* **Engineering:** development and open sourcing of research code for my projects, including SynLogic, Vision4Chart (chart understanding with vision-language models) and Universal_Truthfulness_Hyperplane.
+* **Academic profiles:** Google Scholar profile, GitHub (Vicent0205).
 
 ## Honors and awards
 
